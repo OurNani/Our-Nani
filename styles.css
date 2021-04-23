@@ -18,3 +18,11 @@ font-size: 40px;
 p {
   font-family: 'Open Sans', sans-serif;
 }
+
+@media only screen and (max-width: 600px) {
+
+  .body-text {
+    width: 80%;
+  }
+
+}
