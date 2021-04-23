@@ -25,7 +25,7 @@ p {
     width: 80%;
   }
 
-  img  {
+  .main-image img  {
     width: 100%;
     border-radius: 10px;
   }
