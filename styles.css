@@ -24,7 +24,7 @@ p {
   .body-text {
     width: 80%;
   }
-  .main-image img {
+  .body-text img {
     width: 80%;
     margin: auto;
     border-radius: 10px;
