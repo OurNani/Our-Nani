@@ -34,6 +34,7 @@ p {
   .main-image img  {
     width: 100%;
     border-radius: 7px;
+    margin-top: 20px;
   }
 
 }
