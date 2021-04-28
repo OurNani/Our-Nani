@@ -13,12 +13,11 @@ font-size: 40px;
   margin: auto;
   text-align: justify;
  text-justify: inter-word;
+ font-family: 'Merriweather', serif;
+ line-height: 2;
 }
 
-p {
-  font-family: 'Merriweather', serif;
-  line-height: 2;
-}
+
 
 .main-image img  {
   width: 100%;
