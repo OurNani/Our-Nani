@@ -31,6 +31,17 @@ span img  {
   margin-top: 20px;
 }
 
+.inline-image {
+  margin: 20px 0px 0px 0px;
+}
+
+.caption {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 10px;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
 
 @media only screen and (max-width: 400px) {
 
