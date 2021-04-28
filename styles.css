@@ -38,9 +38,10 @@ span img  {
 
 .caption {
   font-family: 'Open Sans', sans-serif;
-  font-size: 10px;
+  font-size: 12px;
   font-style: italic;
   margin-bottom: 20px;
+   line-height: 1.8;
 }
 
 
