@@ -78,11 +78,11 @@ span img  {
 
   color: white;
   font-family: 'Open Sans', sans-serif;
-  padding: 10px 20px;
+  padding: 10px 10px;
   border-radius: 10px;
   text-align: center;
   font-weight: 600;
-
+font-size: 12px;
 }
 
 .bhajan-button-grid a {
@@ -91,9 +91,7 @@ span img  {
 
 }
 
-.button {
-min-width: 165px;
-}
+
 
 .front-screen {
   height:100vh;
