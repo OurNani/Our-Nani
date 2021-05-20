@@ -3,10 +3,27 @@ body {
   color: black;
 }
 
+iframe {
+  margin: auto;
+  height: 100%;
+  width: auto;
+}
+
 h1 {
 font-family: 'Merriweather', serif;
 font-size: 40px;
 margin: 0;
+line-height: 1.5;
+}
+
+ h3 {
+  margin: 0px;
+  padding: 0px;
+}
+
+h2 {
+ margin: 0px;
+ padding: 0px;
 }
 
 .body-text {
@@ -42,6 +59,48 @@ span img  {
   font-style: italic;
   margin-bottom: 20px;
    line-height: 1.8;
+}
+
+
+.bhajan-button-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  grid-row-gap: 0px;
+  text-align: left;
+  margin-bottom: 20px;
+  grid-column-gap: 40px;
+}
+
+
+.bhajan-button-grid  p {
+  background-color: black;
+
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  padding: 10px 20px;
+  border-radius: 10px;
+  text-align: center;
+  font-weight: 600;
+
+}
+
+.bhajan-button-grid a {
+  color: white;
+  text-decoration: none;
+
+}
+
+.button {
+min-width: 165px;
+}
+
+.front-screen {
+  height:100vh;
+}
+
+.poem {
+  width: 70%;
 }
 
 
