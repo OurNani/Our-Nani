@@ -115,6 +115,10 @@ margin: 0px;
     margin-top:30px;
   }
 
+  .bhajan-button-grid {
+    width: 50%;
+  }
+
 }
 
 @media only screen and (max-width: 400px) {
